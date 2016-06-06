@@ -4,7 +4,7 @@ Shows projects that developers can apply to for a network.
 
 ## Path
 
-`/networks/{ID}/projects.{FORMAT}`
+`GET /networks/{ID}/projects.{FORMAT}`
 
 ### Auth
 

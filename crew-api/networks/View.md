@@ -4,7 +4,7 @@ Shows information for a network.
 
 ## Path
 
-`/networks/{ID}.{FORMAT}`
+`GET /networks/{ID}.{FORMAT}`
 
 ### Auth
 

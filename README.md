@@ -1,5 +1,3 @@
 # Crew Documentation
 
-## Table of Contents
-
-- [Crew.co Api](crew-api/Index.md)
+This is the docs repository for Crew.

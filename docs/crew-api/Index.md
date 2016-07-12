@@ -1,4 +1,4 @@
-# Crew.co API Documentation
+# Crew API Documentation
 
 > The API is currently under development and the endpoints and response structure may change.
 
@@ -20,7 +20,7 @@ documentation for existing endpoints.
 
 ## Endpoints
 
-The host and path for all API requests is: `https://crew.co/api`
+The host and path for all API requests is: `https://app.crew.co/api`
 
 - [`GET /networks/{id}`](networks/View.md)
 - [`GET /networks/{id}/projects`](networks/projects/Index.md)
@@ -34,6 +34,6 @@ The current supported formats are:
 You can request a format by appending it to the endpoint path, e.g.
 
 ```
-curl https://crew.co/api/{RESOURCE}.{FORMAT} \
+curl https://app.crew.co/api/{RESOURCE}.{FORMAT} \
    -u {API_KEY}:
 ```

@@ -24,7 +24,7 @@ key is requested
 
 Request:
 ```
-curl https://crew.co/api/networks/40.json \
+curl https://app.crew.co/api/networks/40.json \
    -u 12345:
 ```
 

@@ -8,7 +8,7 @@ The Crew API uses basic auth for authentication. It uses the `username` as the A
 With your API key, authenticating requests is simple. Here's an example using Curl:
 
 ```
-curl https://crew.co/api/{RESOURCE} \
+curl https://app.crew.co/api/{RESOURCE} \
    -u <API_KEY>:
 ```
 

@@ -19,6 +19,7 @@ All resource names are pluralized.
 - [Authentication](Authentication.md)
 - [Versioning](Versioning.md)
 - [Responses and Errors](Responses.md)
+- [Pagination](Pagination.md)
 
 ## Endpoints
 

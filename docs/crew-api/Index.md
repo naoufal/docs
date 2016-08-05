@@ -16,7 +16,7 @@ All resource names are pluralized.
 
 ## Table of Contents
 
-- [Authentication and Authorization](Authentication.md)
+- [Authentication](Authentication.md)
 
 ## Endpoints
 

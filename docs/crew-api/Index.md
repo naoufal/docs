@@ -21,12 +21,13 @@ All resource names are pluralized.
 - [Responses and Errors](Responses.md)
 - [Pagination](Pagination.md)
 
-## Endpoints
+## Host
 
 The host and path for all API requests is: `https://app.crew.co/api`
 
-- [`GET /networks/{id}`](networks/View.md)
-- [`GET /networks/{id}/projects`](networks/projects/Index.md)
+## Resources
+
+- [Networks](networks/Index.md)
 
 ## Formats
 

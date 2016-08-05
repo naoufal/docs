@@ -31,12 +31,14 @@ curl https://app.crew.co/api/networks/40.json \
 Response:
 ```
 {
-  "network": {
-    "id": 40,
-    "name": "My Crew Network",
-    "created": "2016-01-17T01:21:29-0500",
-    "project_count": 6,
-    "active_dev_count": 1
-  }
+  [
+      {
+        "id": 40,
+        "name": "My Crew Network",
+        "created": "2016-01-17T01:21:29-0500",
+        "project_count": 6,
+        "active_dev_count": 1
+      }
+  ]
 }
 ```

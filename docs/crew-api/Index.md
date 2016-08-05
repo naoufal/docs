@@ -17,6 +17,7 @@ All resource names are pluralized.
 ## Table of Contents
 
 - [Authentication](Authentication.md)
+- [Versioning](Versioning.md)
 - [Responses and Errors](Responses.md)
 
 ## Endpoints

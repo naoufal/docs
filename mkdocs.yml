@@ -13,3 +13,4 @@ pages:
         - crew-api/networks/Index.md
         - View Networks: crew-api/networks/View.md
         - List Projects: crew-api/networks/projects/List.md
+        - List Users: crew-api/networks/users/List.md

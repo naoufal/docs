@@ -2,27 +2,27 @@
 
 ## Successful Responses
 
-Successful responses are always returned as an array of items. Responses are not enveloped.
+Responses are not enveloped, and return the item(s) you request.
 
 ### Example: response
 
-This is an example of a response for a single resource, such as `GET /api/resources/1.json`:
+This is an example of a response for a single resource, such as `GET /api/resources/1.json`. It will return the object
+you request.
 
 ```
 HTTP/1.1 200 Ok
 
-[
-    {
-        "id": 1,
-        "name": "A resource",
-        "created": "2016-03-29T20:34:47-0400"
-    }
-]
+{
+    "id": 1,
+    "name": "A resource",
+    "created": "2016-03-29T20:34:47-0400"
+}
 ```
 
 ### Example: list response
 
-This is an example of a response for multiple resources, such as `GET /api/resources.json`:
+This is an example of a response for multiple resources, such as `GET /api/resources.json`. It will return an array of
+objects that were requested.
 
 
 ```

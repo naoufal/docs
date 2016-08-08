@@ -5,6 +5,12 @@ pages:
   - API:
     - Getting Started: crew-api/Index.md
     - Authentication: crew-api/Authentication.md
-    - Endpiints:
-      - View Network: crew-api/networks/View.md
-      - List Projects: crew-api/networks/projects/Index.md
+    - Pagination: crew-api/Pagination.md
+    - Responses: crew-api/Responses.md
+    - Versioning: crew-api/Versioning.md
+    - Resources:
+      - Networks:
+        - crew-api/networks/Index.md
+        - View Networks: crew-api/networks/View.md
+        - List Projects: crew-api/networks/projects/List.md
+        - List Users: crew-api/networks/users/List.md

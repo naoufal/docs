@@ -31,7 +31,7 @@ curl https://app.crew.co/api/networks/40/projects.json \
 Response:
 ```
 {
-  "projects": [
+  [
     {
       "access_code": "rvvg02vf",
       "type": "app",

@@ -25,10 +25,10 @@ If you request page 2 and there are a maximum of 5 pages, the link header would 
 for readability):
 
 ```
-Link: <http://crew.dev/api/resources.json/?page=1>; rel="first",
-      <http://crew.dev/api/resources.json/?page=1>; rel="prev",
-      <http://crew.dev/api/resources.json/?page=5>; rel="last",
-      <http://crew.dev/api/resources.json/?page=3>; rel="next"
+Link: <https://app.crew.co/api/resources.json/?page=1>; rel="first",
+      <https://app.crew.co/api/resources.json/?page=1>; rel="prev",
+      <https://app.crew.co/api/resources.json/?page=5>; rel="last",
+      <https://app.crew.co/api/resources.json/?page=3>; rel="next"
 ```
 
 [1]: https://tools.ietf.org/html/rfc5988

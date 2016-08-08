@@ -16,20 +16,9 @@ All resource names are pluralized.
 > Note that not all of the above endpoints actually exist and are for illustration purposes only. Please refer to the
 > documentation for existing endpoints.
 
-## Table of Contents
-
-- [Authentication](Authentication.md)
-- [Versioning](Versioning.md)
-- [Responses and Errors](Responses.md)
-- [Pagination](Pagination.md)
-
 ## Host
 
 The host and path for all API requests is: `https://app.crew.co/api`
-
-## Resources
-
-- [Networks](networks/Index.md)
 
 ## Formats
 

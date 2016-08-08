@@ -6,7 +6,7 @@ Shows information for a network.
 
 `GET /networks/{ID}.{FORMAT}`
 
-### Auth
+## Auth
 
 - authentication
 - authorization

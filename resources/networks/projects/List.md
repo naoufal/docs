@@ -6,7 +6,7 @@ Shows projects that developers can apply to for a network.
 
 `GET /networks/{ID}/projects.{FORMAT}`
 
-### Auth
+## Auth
 
 - authentication
 - authorization

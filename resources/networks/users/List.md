@@ -6,7 +6,7 @@ Shows active developers within the network.
 
 `GET /networks/{ID}/users.{FORMAT}`
 
-### Auth
+## Auth
 
 - authentication
 - authorization

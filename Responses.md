@@ -2,7 +2,7 @@
 
 ## Successful Responses
 
-Responses are not enveloped, and return the item(s) you request.
+Successful responses return an HTTP status of 200. Please note, these responses are not enveloped.
 
 ### Example: response
 

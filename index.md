@@ -1,6 +1,6 @@
 # Crew API Documentation
 
-> The Crew API is currently **invite only**.
+> The Crew API is currently [**invite only**][1].
 
 The Crew API is a RESTful API. This means it returns appropriate response codes with messages, such as 403 for requesting
 a resource that you are not authorized to request, and 200 for successful API responses. It also follows REST conventions
@@ -32,3 +32,5 @@ You can request a format by appending it to the endpoint path, e.g.
 curl https://app.crew.co/api/{RESOURCE}.{FORMAT} \
    -u {API_KEY}:
 ```
+
+[1]: https://app.crew.co/pro

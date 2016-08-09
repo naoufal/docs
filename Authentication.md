@@ -1,7 +1,6 @@
 # Authentication
 
-The Crew API uses basic auth for authentication. It uses the `username` as the API key, similar to how the
-[Stripe](https://stripe.com) API authenticates.
+The Crew API uses basic auth for authentication. It uses the API key as the `username` with no `password`.
 
 With your API key, authenticating requests is simple. Here's an example using Curl:
 
